@@ -1,0 +1,5 @@
+{
+  "name": "Trình Chỉnh Sửa Ảnh Gemini AI",
+  "description": "Ứng dụng chỉnh sửa ảnh cao cấp được cung cấp bởi Gemini 2.5 Flash Image. Các tính năng bao gồm Thử đồ ảo (Đổi trang phục), Xóa vật thể bằng AI với cọ vẽ chính xác và Tự động xóa nền.",
+  "requestFramePermissions": []
+}
